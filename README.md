@@ -12,9 +12,7 @@
 ![Landing Page](public/screenshots/landing.png)
 *Beautiful, responsive landing page with interactive workflow preview*
 
-### Dashboard
-![Dashboard](public/screenshots/dashboard.png)
-*User workspace showing saved workflows with easy access to create new ones*
+
 
 ---
 
