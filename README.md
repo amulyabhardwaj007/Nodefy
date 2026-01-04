@@ -249,7 +249,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Sumit Attri**
+**Amulya Bhardwaj**
 
 Built with ❤️ using Next.js, React, and modern web technologies.
 
